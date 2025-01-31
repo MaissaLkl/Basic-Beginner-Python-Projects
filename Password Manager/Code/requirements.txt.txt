@@ -1,0 +1,11 @@
+# Database
+psycopg2>=2.9.9
+
+# Cryptography and Security
+cryptography>=41.0.0
+bcrypt>=4.0.1
+
+# Utility
+pyperclip>=1.8.2
+
+# These versions are recommended minimums based on security and feature compatibility

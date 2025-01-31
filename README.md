@@ -13,23 +13,24 @@ Welcome to my collection of small Python projects designed for beginners! 🚀 T
 
 ## 🚀 Getting Started
 Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/repo-name.git
+```bash
+git clone https://github.com/MaissaLkl/Basic-Beginner-Python-Projects.git 
+```
+
 Navigate to the project folder:
-bash
-Copy
-Edit
-cd repo-name
+```bash
+cd Basic-Beginner-Python-Projects
+```
+
 Follow the setup instructions inside each project folder.
-🛠 Requirements
+
+## 🛠 Requirements
 Each project has its own dependencies. Check the requirements.txt file (if available) or install necessary libraries using:
 
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
+
 ## 🤝 Contributing
 Feel free to fork this repo, suggest improvements, or add new beginner-friendly projects!
 
